@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLongDark.ModLoader", "src\TheLongDark.ModLoader\TheLongDark.ModLoader.csproj", "{39AF9E15-3DE6-4268-BDC8-69AC5A3AD896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLongDark.Injector", "src\TheLongDark.Injector\TheLongDark.Injector.csproj", "{61F415D0-1439-4AF1-854E-AAAE2D25CF76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLongDark.API", "src\TheLongDark.API\TheLongDark.API.csproj", "{39155F93-6C54-4D23-910F-1CB8CE78A6B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39AF9E15-3DE6-4268-BDC8-69AC5A3AD896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AF9E15-3DE6-4268-BDC8-69AC5A3AD896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AF9E15-3DE6-4268-BDC8-69AC5A3AD896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AF9E15-3DE6-4268-BDC8-69AC5A3AD896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61F415D0-1439-4AF1-854E-AAAE2D25CF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F415D0-1439-4AF1-854E-AAAE2D25CF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F415D0-1439-4AF1-854E-AAAE2D25CF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F415D0-1439-4AF1-854E-AAAE2D25CF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39155F93-6C54-4D23-910F-1CB8CE78A6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39155F93-6C54-4D23-910F-1CB8CE78A6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39155F93-6C54-4D23-910F-1CB8CE78A6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39155F93-6C54-4D23-910F-1CB8CE78A6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
